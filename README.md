@@ -28,7 +28,7 @@ Be The Help is a project that aims to connect people who are willing to help ONG
 
 
 
-## :computer Technologies
+## :computer: Technologies
 
 This project was developed with the following technologies:
 
