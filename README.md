@@ -4,13 +4,13 @@
 
 
 <p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#computer">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-preview">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-getting">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
-## 💻 Project
+## 👁 Preview
 
 Be The Help is a project that aims to connect people who are willing to help ONGs.
 <p>Web App:</p>
@@ -28,7 +28,7 @@ Be The Help is a project that aims to connect people who are willing to help ONG
 
 
 
-## :computer: Technologies
+## 💻 Technologies
 
 This project was developed with the following technologies:
 
