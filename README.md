@@ -6,6 +6,7 @@
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -37,10 +38,76 @@ This project was developed with the following technologies:
 - [Expo](https://expo.io/)
 
 
-## :memo: License
+## :getting:🚀 Getting started
 
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+  
+
+First of all you need to have `node` and `yarn`(or `npm`) installed on your machine.
+
+  
+
+_If you decide to use npm don't forget to delete yarn.lock in folders_
+
+  
+
+Then you can clone the repository.
+
+  
+
+`git clone https://github.com/rafapaivadeandrade/BeTheHelp`
+
+  
+
+First start the application backend.
+
+  
+
+1. `cd backend`
+
+2. `yarn` or `npm install`
+
+3. `yarn dev` or `npm run dev`
+
+  
+
+Now starting the web application.
+
+  
+
+1. `cd web`
+
+2. `yarn` or `npm install`
+
+3. `yarn start` or `npm run start`
+
+  
+
+Starting the application with Expo.
+
+  
+
+1. `cd mobile`
+
+2. `yarn` or `npm install`
+
+3. `yarn start` or `npm run start`
+
+4. Press on `Run on Android device/emulator` or `Run on iOS simulator`
+
+5. Another option is to install Expo on your phone and scan the QRCode.
+
+  
+
+_For the api to work on the cell phone, change the fields that have a fixed IP to your own IP_
+
+  
+
+## :memo:📝 License
+
+  
+
+This project is under the MIT license. See the [LICENSE]([https://github.com/rafapaivadeandrade/BeTheHelp/blob/master/LICENSE.md](https://github.com/rafapaivadeandrade/BeTheHelp/blob/master/LICENSE.md)) for more information.
+
+  
 
 ---
-
-
