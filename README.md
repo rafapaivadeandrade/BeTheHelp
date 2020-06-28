@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#-preview">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#-getting">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-Getting-Started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -38,7 +38,7 @@ This project was developed with the following technologies:
 - [Expo](https://expo.io/)
 
 
-## 🚀 Getting started
+## 🚀 Getting Started
 
   
 
