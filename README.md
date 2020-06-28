@@ -6,7 +6,7 @@
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#computer">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -28,7 +28,7 @@ Be The Help is a project that aims to connect people who are willing to help ONG
 
 
 
-## :rocket: Technologies
+## 🖥 Technologies
 
 This project was developed with the following technologies:
 
@@ -38,7 +38,7 @@ This project was developed with the following technologies:
 - [Expo](https://expo.io/)
 
 
-## :getting:🚀 Getting started
+## 🚀 Getting started
 
   
 
@@ -102,7 +102,7 @@ _For the api to work on the cell phone, change the fields that have a fixed IP t
 
   
 
-## :memo:📝 License
+## :memo: License
 
   
 
