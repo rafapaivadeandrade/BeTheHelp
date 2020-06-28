@@ -14,6 +14,9 @@
 Be The Help is a project that aims to connect people who are willing to help ONGs.
 
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/51189721/85945404-7bbd3e00-b90b-11ea-9545-9d7b8943e712.gif)
+</br>
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/51189721/85945424-aad3af80-b90b-11ea-964b-15c268c468ab.gif)
+
 
 
 ## :rocket: Technologies
